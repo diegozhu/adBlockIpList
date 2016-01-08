@@ -1,0 +1,62 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+127.0.0.1       localhost
+::1             localhost
+127.0.0.1 t1.baidu.com
+127.0.0.1 t2.baidu.com
+127.0.0.1 t3.baidu.com
+127.0.0.1 t4.baidu.com
+127.0.0.1 t5.baidu.com
+127.0.0.1 t6.baidu.com
+127.0.0.1 t7.baidu.com
+127.0.0.1 t8.baidu.com
+127.0.0.1 t9.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
+127.0.0.1 cpro.baidu.com
+127.0.0.1 dup.baidustatic.com
+127.0.0.1 cbjs.baidu.com
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 dvser.china.com
+127.0.0.1 material.mediav.com
+127.0.0.1 static.mediav.com
+127.0.0.1 max.mediav.com
+127.0.0.1 *.mediav.com
+127.0.0.1 asearch.alicnd.com
+127.0.0.1 wangmeng.baidu.com
+127.0.0.1 www.qiwen007.com
+127.0.0.1 sammix.adsame.com
+127.0.0.1 cdn.mlt01.com
+127.0.0.1 static.mlt01.com
+127.0.0.1 static.acs86.com
+127.0.0.1 g.fastapi.net
+127.0.0.1 pic.fastaip.net
+127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 *.g.doubleclick.net
+127.0.0.1 *.doubleclick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 gooleads.g.doubleclick.net
+127.0.0.1 strip.taobaocdn.com
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 static.googleadsserving.cn
+127.0.0.1 s.jandan.com
+127.0.0.1 pagead2.googlesyndication.com
