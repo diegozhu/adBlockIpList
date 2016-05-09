@@ -1,5 +1,6 @@
 127.0.0.1       localhost
 ::1             localhost
+127.0.0.1 entry.baidu.com
 127.0.0.1 t1.baidu.com
 127.0.0.1 t2.baidu.com
 127.0.0.1 t3.baidu.com
